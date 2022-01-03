@@ -1,0 +1,6 @@
+{
+	"appId": "com.smart.app",
+	"appName": "smart",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
